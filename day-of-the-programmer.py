@@ -1,5 +1,4 @@
 #!/bin/python3
-import sys
 
 
 def number_of_days_of_february(y):
