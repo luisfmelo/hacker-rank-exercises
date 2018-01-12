@@ -4,7 +4,7 @@ import sys
 
 def number_of_days_of_february(y):
     if y == 1918:
-        return 14
+        return 15
 
     # Julian Calendar
     if y < 1918:
