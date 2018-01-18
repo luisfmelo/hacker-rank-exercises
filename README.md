@@ -10,8 +10,14 @@
 
 #### Implementation
 
-
-
 |  |  |
 | ------| -----------:|
 | 1. [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | ![Difficulty: Easy](https://img.shields.io/badge/difficulty-medium-yellow.svg) |
+
+
+
+#### Sorting
+
+|  |  |
+| ------| -----------:|
+| 1. [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/extra-long-factorials/problem) | ![Difficulty: Easy](https://img.shields.io/badge/difficulty-easy-green.svg) |
